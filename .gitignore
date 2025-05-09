@@ -1,0 +1,5 @@
+/downloads/*
+/venv/*
+.DS._Store
+__pycache__/
+.vscode/*
