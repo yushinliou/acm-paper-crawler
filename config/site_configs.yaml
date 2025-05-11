@@ -1,0 +1,31 @@
+chi-2025:
+  csv: "data/chi-2025.csv"
+  title: "section__title"
+  href: "section__title href"
+  parser: acm_chi_parser
+  download_dir: "downloads/chi-2025"
+  headers:
+    User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+    Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    Accept-Language: "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+    Accept-Encoding: "gzip, deflate, br"
+    Connection: "keep-alive"
+    Upgrade-Insecure-Requests: "1"
+    Cache-Control: "max-age=0"
+    TE: "Trailers"
+    Pragma: "no-cache"
+    DNT: "1"
+    X-Requested-With: "XMLHttpRequest"
+    If-None-Match: "W/\"5d8-5a2f4b0c3e1b0\""
+    Range: "bytes=0-"
+    If-Range: "W/\"5d8-5a2f4b0c3e1b0\""
+  requires_login: flase
+
+tjs:
+  csv: "data/tjs.csv"
+  title: "tablescraper-selected-row 2"
+  href: "tablescraper-selected-row href"
+  download_dir: "downloads/tjs"
+  parser: tjs_parser
+  headers:
+  requires_login: flase

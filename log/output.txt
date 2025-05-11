@@ -1,0 +1,182 @@
+Processing: SESSION: 3D Design and Fabrication -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading1
+text/html;charset=UTF-8
+Downloaded: 3706598.3714307.pdf
+Downloaded: 3706598.3713866.pdf
+Downloaded: 3706598.3714312.pdf
+Downloaded: 3706598.3713502.pdf
+Downloaded: 3706598.3713424.pdf
+Downloaded: 3706598.3714282.pdf
+Processing: SESSION: AI Ethics and Concerns -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading2
+text/html;charset=UTF-8
+Downloaded: 3706598.3714144.pdf
+Downloaded: 3706598.3714098.pdf
+Downloaded: 3706598.3713292.pdf
+Downloaded: 3706598.3713329.pdf
+Downloaded: 3706598.3713979.pdf
+Downloaded: 3706598.3713710.pdf
+Downloaded: 3706598.3713429.pdf
+Processing: SESSION: AI in the Classroom -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading3
+text/html;charset=UTF-8
+Downloaded: 3706598.3714169.pdf
+Downloaded: 3706598.3713677.pdf
+Downloaded: 3706598.3713513.pdf
+Downloaded: 3706598.3713960.pdf
+Downloaded: 3706598.3714111.pdf
+Downloaded: 3706598.3713349.pdf
+Downloaded: 3706598.3713589.pdf
+Processing: SESSION: AI-Assisted Creativity -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading4
+text/html;charset=UTF-8
+Downloaded: 3706598.3714148.pdf
+Downloaded: 3706598.3713869.pdf
+Downloaded: 3706598.3714198.pdf
+Downloaded: 3706598.3713649.pdf
+Downloaded: 3706598.3713146.pdf
+Downloaded: 3706598.3714120.pdf
+Downloaded: 3706598.3713532.pdf
+Processing: SESSION: AR Interaction -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading5
+text/html;charset=UTF-8
+Downloaded: 3706598.3713179.pdf
+Downloaded: 3706598.3713348.pdf
+Downloaded: 3706598.3713415.pdf
+Failed to download https://dl.acm.org/doi/pdf/10.1145/3706598.3713925: 403 Client Error:  for url: https://dl.acm.org/doi/pdf/10.1145/3706598.3713925
+Failed to download https://dl.acm.org/doi/pdf/10.1145/3706598.3714294: 403 Client Error:  for url: https://dl.acm.org/doi/pdf/10.1145/3706598.3714294
+Failed to download https://dl.acm.org/doi/pdf/10.1145/3706598.3713528: 403 Client Error:  for url: https://dl.acm.org/doi/pdf/10.1145/3706598.3713528
+Failed to download https://dl.acm.org/doi/pdf/10.1145/3706598.3713389: 403 Client Error:  for url: https://dl.acm.org/doi/pdf/10.1145/3706598.3713389
+Processing: SESSION: AR VR and Social VR -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading6
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading6: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading6
+Processing: SESSION: Accessibility 2 -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading7
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading7: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading7
+Processing: SESSION: Advances in Programming and Software Development -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading8
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading8: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading8
+Processing: SESSION: Agent Design -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading9
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading9: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading9
+Processing: SESSION: Assistive Technologies -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading10
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading10: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading10
+Processing: SESSION: Auditory UI -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading11
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading11: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading11
+Processing: SESSION: Automated Vehicles and XR -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading12
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading12: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading12
+Processing: SESSION: Autonomus Vehicle -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading13
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading13: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading13
+Processing: SESSION: Being Inclusive -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading14
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading14: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading14
+Processing: SESSION: Better Work and Career -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading15
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading15: 403 Client Error: Forbidden for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading15
+Processing: SESSION: Bias and Identity -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading16
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading16: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading16
+Processing: SESSION: Biosensing for Interactions -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading17
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading17: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading17
+Processing: SESSION: Body and Technology -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading18
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading18: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading18
+Processing: SESSION: CS Education and Security -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading19
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading19: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading19
+Processing: SESSION: Children and Youth -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading20
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading20: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading20
+Processing: SESSION: Classroom Technology -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading21
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading21: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading21
+Processing: SESSION: Co-ideation -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading22
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading22: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading22
+Processing: SESSION: Coding and Development -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading23
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading23: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading23
+Processing: SESSION: Communication and Social Interaction -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading24
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading24: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading24
+Processing: SESSION: Communication and Socialization -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading25
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading25: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading25
+Processing: SESSION: Content Moderation -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading26
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading26: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading26
+Processing: SESSION: Conversations with AI -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading27
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading27: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading27
+Processing: SESSION: Creative Tools -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading28
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading28: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading28
+Processing: SESSION: Creativity Support -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading29
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading29: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading29
+Processing: SESSION: Critics on AI -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading30
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading30: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading30
+Processing: SESSION: Crowdsourcing and Tech in the Wild -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading31
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading31: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading31
+Processing: SESSION: Cultures and Languages -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading32
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading32: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading32
+Processing: SESSION: Dark Patterns and Content Moderation -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading33
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading33: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading33
+Processing: SESSION: Data Interpretation and Storytelling -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading34
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading34: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading34
+Processing: SESSION: Data Privacy and Ethics -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading35
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading35: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading35
+Processing: SESSION: DeIving into LLMs -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading36
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading36: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading36
+Processing: SESSION: Decision Making and Analysis -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading37
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading37: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading37
+Processing: SESSION: Decision Making with AI -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading38
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading38: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading38
+Processing: SESSION: Design -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading39
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading39: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading39
+Processing: SESSION: Design Thinking -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading40
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading40: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading40
+Processing: SESSION: Design for Diverse Needs -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading41
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading41: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading41
+Processing: SESSION: Design for Diverse Physical Interactions -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading42
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading42: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading42
+Processing: SESSION: Designs for Aging and Accessibility -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading43
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading43: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading43
+Processing: SESSION: Designs for Blind and Low Vision People -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading44
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading44: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading44
+Processing: SESSION: Digital Fabrication -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading45
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading45: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading45
+Processing: SESSION: Digital Health and Well-being -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading46
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading46: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading46
+Processing: SESSION: Digital Health for Diverse Needs -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading47
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading47: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading47
+Processing: SESSION: Digital Matters -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading48
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading48: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading48
+Processing: SESSION: Digital Storytelling -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading49
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading49: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading49
+Processing: SESSION: Diversity -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading50
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading50: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading50
+Processing: SESSION: Diversity and Inclusiveness -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading51
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading51: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading51
+Processing: SESSION: Earable and Hearable -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading52
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading52: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading52
+Processing: SESSION: Eating and Digital Health -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading53
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading53: 403 Client Error: Forbidden for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading53
+Processing: SESSION: Embodied Stimulation -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading54
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading54: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading54
+Processing: SESSION: Embodiment and Immersion -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading55
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading55: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading55
+Processing: SESSION: Emotion and Behavior Change -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading56
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading56: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading56
+Processing: SESSION: Engaging Users for Security and Privacy -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading57
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading57: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading57
+Processing: SESSION: Engaging with Data -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading58
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading58: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading58
+Processing: SESSION: Ethical Considerations -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading59
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading59: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading59
+Processing: SESSION: Ethics and Empowerment -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading60
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading60: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading60
+Processing: SESSION: Experience Together -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading61
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading61: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading61
+Processing: SESSION: Explainable AI -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading62
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading62: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading62
+Processing: SESSION: Exploring Physical and Digital Product Design -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading63
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading63: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading63
+Processing: SESSION: Expressive Machines -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading64
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading64: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading64
+Processing: SESSION: Fabrication Techniques -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading65
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading65: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading65
+Processing: SESSION: Fabrication and Interaction Tools -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading66
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading66: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading66
+Processing: SESSION: Future of HCI and Research Practices -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading67
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading67: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading67
+Processing: SESSION: Game Experience -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading68
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading68: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading68
+Processing: SESSION: Games -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading69
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading69: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading69
+Processing: SESSION: HCI Method Considerations -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading70
+Failed to fetch https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading70: 403 Client Error:  for url: https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading70
+Processing: SESSION: HCI Methods -> https://dl.acm.org/doi/proceedings/10.1145/3706598?tocHeading=heading71
+Traceback (most recent call last):
+  File "/Users/liuyuxin/Programming/paper-crawler/main.py", line 28, in <module>
+    main()
+  File "/Users/liuyuxin/Programming/paper-crawler/main.py", line 19, in main
+    time.sleep(random.uniform(1, 5))  # Sleep for a random time between 1 and 5 seconds
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

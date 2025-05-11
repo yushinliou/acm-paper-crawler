@@ -1,1 +1,0 @@
-DOWNLOAD_DIR = "downloads"
